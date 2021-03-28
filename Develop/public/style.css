@@ -17,12 +17,13 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #12e48c;
   color: #ffffff;
   height: 80px;
   padding: 10px;
   line-height: 3;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  font-weight:bold
 }
 
 a,
@@ -35,6 +36,7 @@ a:visited {
 
 nav a:hover{
   opacity: 0.7;
+  color:purple;
 }
 
 header {
