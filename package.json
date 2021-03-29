@@ -16,5 +16,13 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanrantucci/Workout_Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jordanrantucci/Workout_Tracker/issues"
+  },
+  "homepage": "https://github.com/jordanrantucci/Workout_Tracker#readme"
 }
