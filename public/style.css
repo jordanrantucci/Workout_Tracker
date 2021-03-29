@@ -403,6 +403,9 @@ form > button {
   height: 75px;
   margin-top: 30px;
 }
+.positive.ui.button{
+  background-color: purple;
+}
 
 .buttons .ui.button {
   margin: 0;
